@@ -46,9 +46,10 @@ PROCEDURE:
 
 <img width="1015" height="651" alt="Screenshot 2025-11-14 143940" src="https://github.com/user-attachments/assets/5b5af094-1747-4a0f-b786-0b388f1734d4" />
 <img width="951" height="672" alt="Screenshot 2025-11-14 143955" src="https://github.com/user-attachments/assets/c9e8174a-8a0e-450a-a237-32880fd5978a" />
-![WhatsApp Image 2025-11-14 at 14 38 07](https://github.com/user-attachments/assets/4b148972-3c88-475b-83dd-60a4fdedf7e7)
-![WhatsApp Image 2025-11-14 at 14 38 06](https://github.com/user-attachments/assets/8e762aff-37b3-4628-8dd1-bf3fa2289888)
 
+![WhatsApp Image 2025-11-14 at 14 38 07](https://github.com/user-attachments/assets/eafb29e3-bbee-4059-bdbe-8d1e22cfa529)
+
+![WhatsApp Image 2025-11-14 at 14 38 06](https://github.com/user-attachments/assets/3a176cc1-cd35-4205-931b-42dfe0c979c6)
 
 RESULT:
 
